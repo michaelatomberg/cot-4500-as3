@@ -1,1 +1,2 @@
-
+import numpy as np
+# numpy library needed for this program
